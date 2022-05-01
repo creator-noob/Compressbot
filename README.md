@@ -12,5 +12,8 @@
 - For now i set it for maximum 5 Processes at a time.
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
 
-### Fork Repo Then click on below button of ur fork repo.  
-[![Deploy](https://www.heroku.com/deploy/button.svg)](https://heroku.com/deploy/https://github.com/arunsingh-creator/CompressorBot)
+## Deploy To Heroku
+
+<a href="https://heroku.com/deploy?template=https://github.com/arunsingh-creator/txt">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
