@@ -19,8 +19,8 @@ async def start(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url=""),
-                Button.url("DEVELOPER", url=""),
+                Button.url("SOURCE CODE", url="https://github.com/creator-noob/Compressbot"),
+                Button.url("DEVELOPER", url="https://github.com/creator-noob/Compressbot"),
             ],
         ],
     )
@@ -46,8 +46,8 @@ async def beck(event):
         buttons=[
             [Button.inline("HELP", data="ihelp")],
             [
-                Button.url("SOURCE CODE", url=""),
-                Button.url("DEVELOPER", url=""),
+                Button.url("SOURCE CODE", url="https://github.com/creator-noob/Compressbot"),
+                Button.url("DEVELOPER", url="https://github.com/creator-noob/Compressbot"),
             ],
         ],
     )
