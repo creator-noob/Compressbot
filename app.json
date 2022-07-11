@@ -1,30 +1,30 @@
 {
-    "name": "CompressorBot",
-    "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
+    "name": "Comprot",
+    "description": "A NormalBot Which can Coode/ Generate Samples of videos.",
     "logo": "",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/arunsingh-creator/CompressorBot",
-    "success_url": "https://t.me/Redclubx",
+    "repository": "https://github.com/aror/CompressorBot",
+    "success_url": "https://tdclubx",
     "stack": "container",
     "env": {
         "APP_ID": {
-            "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
+            "description": "You api id, from mor @apiScrapperRoBot.",
             "value": "15254258"
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
+            "description": "You api hash, from  or @apiScrapperRoBot.",
             "value": "107dc8de4b11afca514ad02f3e1a2efb"
         },
         "BOT_TOKEN": {
-            "description": "Make a bot from @BotFather, and enter it's api token here.",
+            "description": "Make a bot fromenter it's api token here.",
             "value": "5341485827:AAEVpHK3VaHVuBCfTlt7k02Eq9n6L3OfO1A"
         },
         "LOG_CHANNEL": {
-            "description": "Create a private group/channel. Add @missrose_bot and your bot + make admin. Do /id. Paste that here",
+            "description": "Create a  and your bot + make admin. Do /id. Paste that here",
              "value": "-1001536264490"
         },
         "OWNER_ID": {
-            "description": "Get ur Id Of Telegram nd Paste Here.",
+            "description": "Get ur Iram nd Paste Here.",
             "value": "5304002646",
             "required": false
         }
