@@ -1,5 +1,11 @@
 from . import *
 
+BOT_TOKEN ="5509916510:AAG2fow3mScpTf3VzMnDzAGO99nPZnYLIxw"
+API_HASH ="74a2665339484da3eaaed5f4fe16da79"
+APP_ID = 14560088
+LOG_CHANNEL = "-1001715617029"
+
+
 try:
     APP_ID = config("APP_ID", cast=int)
     API_HASH = config("API_HASH")
